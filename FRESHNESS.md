@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Chuvash Republic: Official Internet Portal of Legal Information (region21) · `russia/chuvashia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 05:23 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 05:23 UTC**.
 - Acts held here: 1 234; current at the source: 1 234; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
