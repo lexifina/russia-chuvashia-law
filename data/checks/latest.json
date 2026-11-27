@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:15:37Z",
+ "generated": "2026-11-27T06:08:15Z",
  "latest": {
   "pravo-chuvashia|russia/chuvashia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1234,
     "source_in_scope": 1234
    },
-   "check_id": "ru-pravo-chuvashia-20261126T052308Z",
+   "check_id": "ru-pravo-chuvashia-20261127T051913Z",
    "commits": null,
    "corpus": "russia/chuvashia/acts",
    "error": null,
-   "finished": "2026-11-26T05:23:42Z",
+   "finished": "2026-11-27T05:19:45Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region21: 1234 law-type documents listed (every page read); 1234 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1234 law-type documents in block region21; newest published 2026-10-26",
    "source": "pravo-chuvashia",
-   "started": "2026-11-26T05:23:08Z",
+   "started": "2026-11-27T05:19:13Z",
    "unexplained": 0,
    "update": {
     "parts": []
