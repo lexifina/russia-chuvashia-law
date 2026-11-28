@@ -1,6 +1,6 @@
 # Chuvash Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-02-20 (latest in force: 2026-10-26) · <http://publication.pravo.gov.ru/documents/block/region21>
+Законы 2026 · 12 versions, from 2026-02-20 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region21>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -54,7 +54,15 @@
 | Закон № 52 | [52.md](52.md) | 1 | 2026-10-26 |
 | Закон № 53 | [53.md](53.md) | 1 | 2026-10-26 |
 | Закон № 54 | [54.md](54.md) | 1 | 2026-10-26 |
+| Закон № 55 | [55.md](55.md) | 1 | 2026-11-27 |
+| Закон № 56 | [56.md](56.md) | 1 | 2026-11-27 |
+| Закон № 57 | [57.md](57.md) | 1 | 2026-11-27 |
+| Закон № 58 | [58.md](58.md) | 1 | 2026-11-27 |
+| Закон № 59 | [59.md](59.md) | 1 | 2026-11-27 |
 | Закон № 6 | [6.md](6.md) | 1 | 2026-02-23 |
+| Закон № 60 | [60.md](60.md) | 1 | 2026-11-27 |
+| Закон № 61 | [61.md](61.md) | 1 | 2026-11-27 |
+| Закон № 62 | [62.md](62.md) | 1 | 2026-11-27 |
 | Закон № 7 | [7.md](7.md) | 1 | 2026-02-23 |
 | Закон № 8 | [8.md](8.md) | 1 | 2026-02-23 |
 | Закон № 9 | [9.md](9.md) | 1 | 2026-02-23 |
