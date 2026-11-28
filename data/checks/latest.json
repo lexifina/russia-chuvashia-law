@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:15Z",
+ "generated": "2026-11-28T06:22:35Z",
  "latest": {
   "pravo-chuvashia|russia/chuvashia/acts": {
    "attempt": 1,
@@ -12,26 +12,39 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1234,
+    "checked": 1242,
     "current": 1234,
     "gone": 0,
     "held": 1234,
     "newest_in_repo": "2026-10-26",
-    "pending": 0,
+    "pending": 8,
     "repo": 1234,
-    "source_in_scope": 1234
+    "source_in_scope": 1242
    },
-   "check_id": "ru-pravo-chuvashia-20261127T051913Z",
-   "commits": null,
+   "check_id": "ru-pravo-chuvashia-20261128T052756Z",
+   "commits": {
+    "count": 2,
+    "from": "8232316464215ba09f49e21bf3925a3bb0b87513",
+    "to": "99a7c16bb2e5535c3aae03b50c57ab6b0c2ff411"
+   },
    "corpus": "russia/chuvashia/acts",
    "error": null,
-   "finished": "2026-11-27T05:19:45Z",
+   "finished": "2026-11-28T05:28:41Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region21: 1234 law-type documents listed (every page read); 1234 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region21: 1242 law-type documents listed (every page read); 1234 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "2100202611270002",
+     "2100202611270003",
+     "2100202611270004",
+     "2100202611270006",
+     "2100202611270007",
+     "2100202611270008",
+     "2100202611270009",
+     "2100202611270010"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +52,35 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "2100202611270002",
+     "2100202611270003",
+     "2100202611270004",
+     "2100202611270006",
+     "2100202611270007",
+     "2100202611270008",
+     "2100202611270009",
+     "2100202611270010"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1234 law-type documents in block region21; newest published 2026-10-26",
+   "snapshot": "1242 law-type documents in block region21; newest published 2026-11-27",
    "source": "pravo-chuvashia",
-   "started": "2026-11-27T05:19:13Z",
+   "started": "2026-11-28T05:27:56Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +89,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 214,
+    "versions_checked": 215,
     "versions_differ": 0
    }
   }
